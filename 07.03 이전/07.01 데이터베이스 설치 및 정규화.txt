@@ -1,0 +1,19 @@
+데이터 베이스 !! (백엔드에서 비중 80%)
+mysql 사용 할거임!
+
+https://www.tcpschool.com/mysql/DB#google_vignette
+
+캐싱: cpu 가까이에 데이터를 나두고 필요할때 빠르게 가져다 쓰는것.
+
+
+
+컴퓨터에 각각의 프로그램을 식별할수 있도록 하는 주소가 port 번호.
+외부에서 내부 포트로 연결해주는 작업이 포트포워딩.
+
+MySQL - DOWNLOADS - MySQL Community (GPL) Downloads - MySQL Installer for Windows - 2.1M 다운
+
+
+MySQL Workbench -> AWS(데이터베이스 관리 프로그램, 소프트웨어)
+
+코딩애플(유튜브) 정규화 설명
+https://youtu.be/Y1FbowQRcmI?si=ffoHHVF2Dxso9tzN
